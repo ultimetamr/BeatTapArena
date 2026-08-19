@@ -1,0 +1,18 @@
+# Gradle and Android build outputs
+.gradle/
+**/build/
+local.properties
+*.apk
+*.aab
+
+# IDE and native build state
+.idea/
+*.iml
+.externalNativeBuild/
+.cxx/
+
+# Local captures and operating-system files
+captures/
+.DS_Store
+Thumbs.db
+
